@@ -7,7 +7,7 @@ from machine import Pin
 
 
 # File name of the script to import
-file_name = "blink"
+file_name = "digital_sensor"
 
 SCRIPT_DIRECTORY = "/py_scripts"
 CONTEXT_RADIUS = 2
